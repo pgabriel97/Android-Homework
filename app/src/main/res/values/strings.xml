@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tema 1 (FRAGMENTE)</string>
+    <string name="activity2_name">Second Activity</string>
+    <string name="first_button">Go to second activity</string>
+    <string name="second_button">Add second fragment</string>
+    <string name="third_button1">Replace</string>
+    <string name="third_button2">Remove</string>
+    <string name="third_button3">Close</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="something">Something stupid</string>
+</resources>
